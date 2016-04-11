@@ -1,3 +1,4 @@
 git log
 git push origin master
 git checkout -b develop
+git merge featurel
