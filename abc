@@ -2,3 +2,4 @@ hello word
 apple
 git status
 git add .
+git commit -m "masage"
